@@ -18,6 +18,7 @@ Contacts at the Computer Science department:
 Historical editing team, available to support the current Redbook team:
 
 * Austen McDonald <austen.mcdonald@gmail.com>
+* Ankita Kejriwal <ankitak@cs.stanford.edu>
 
 Printing
 --------
